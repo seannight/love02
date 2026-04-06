@@ -180,107 +180,107 @@ author_profile: true
   <h2 class="map-gallery-title">🎯 腾讯产品经理创造营</h2>
   <div class="map-grid">
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/01--产品启蒙.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/01--产品启蒙.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品启蒙</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/02--课程框架.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/02--课程框架.png" onclick="openModal(this.src)">
       <div class="map-item-title">课程框架</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/03 什么是产品？什么是产品经理？.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/03 什么是产品？什么是产品经理？.png" onclick="openModal(this.src)">
       <div class="map-item-title">什么是产品？什么是产品经理？</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/04.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/04.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品思维</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/05 校对需求（找）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/05 校对需求（找）.png" onclick="openModal(this.src)">
       <div class="map-item-title">校对需求（找）</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/06 预判需求和洞察趋势（找）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/06 预判需求和洞察趋势（找）.png" onclick="openModal(this.src)">
       <div class="map-item-title">预判需求和洞察趋势</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/07_找（闭坑指南）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/07_找（闭坑指南）.png" onclick="openModal(this.src)">
       <div class="map-item-title">找（闭坑指南）</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/08 比 （向外看）分析市场竞争格局.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/08 比 （向外看）分析市场竞争格局.png" onclick="openModal(this.src)">
       <div class="map-item-title">分析市场竞争格局</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/10. 确定产品的商业化模式（比）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/10. 确定产品的商业化模式（比）.png" onclick="openModal(this.src)">
       <div class="map-item-title">确定产品的商业化模式</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/11比（闭坑）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/11比（闭坑）.png" onclick="openModal(this.src)">
       <div class="map-item-title">比（闭坑）</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/12_做好需求规划.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/12_做好需求规划.png" onclick="openModal(this.src)">
       <div class="map-item-title">做好需求规划</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/13把握需求管理节奏.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/13把握需求管理节奏.png" onclick="openModal(this.src)">
       <div class="map-item-title">把握需求管理节奏</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/14_产品设计之美（试）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/14_产品设计之美（试）.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品设计之美（试）</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/15_产品设计避免的弯路（试）.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/15_产品设计避免的弯路（试）.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品设计避免的弯路</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/16（试_设计篇）需求落地最后一公里.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/16（试_设计篇）需求落地最后一公里.png" onclick="openModal(this.src)">
       <div class="map-item-title">需求落地最后一公里</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/18_(试 运营篇）运营拉动产品增长.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/18_(试 运营篇）运营拉动产品增长.png" onclick="openModal(this.src)">
       <div class="map-item-title">运营拉动产品增长</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/19（试运营篇）天下武功，唯快不破.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/19（试运营篇）天下武功，唯快不破.png" onclick="openModal(this.src)">
       <div class="map-item-title">天下武功，唯快不破</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/20_（试_运营篇）产品风险管理.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/20_（试_运营篇）产品风险管理.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品风险管理</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/20_精神篇_哪些品质助产品经理走得更远.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/20_精神篇_哪些品质助产品经理走得更远.png" onclick="openModal(this.src)">
       <div class="map-item-title">哪些品质助产品经理走得更远</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/21_腾讯Royal产品经理采访.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/21_腾讯Royal产品经理采访.png" onclick="openModal(this.src)">
       <div class="map-item-title">腾讯Royal产品经理采访</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/22_引爆内容型产品，搞定这5个问题就够了.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/22_引爆内容型产品，搞定这5个问题就够了.png" onclick="openModal(this.src)">
       <div class="map-item-title">引爆内容型产品</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/23_优秀产品经理频出爆款的原因.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/23_优秀产品经理频出爆款的原因.png" onclick="openModal(this.src)">
       <div class="map-item-title">优秀产品经理频出爆款的原因</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/24_总结课--产品设计的方法与实践.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/24_总结课--产品设计的方法与实践.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品设计的方法与实践</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/25_总结课--产品经理高效执行的攻略.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/25_总结课--产品经理高效执行的攻略.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品经理高效执行的攻略</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/26_总结课--产品思维分享和应用.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/26_总结课--产品思维分享和应用.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品思维分享和应用</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/腾讯产品/进阶.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/进阶.png" onclick="openModal(this.src)">
       <div class="map-item-title">进阶</div>
     </div>
   </div>
@@ -291,55 +291,55 @@ author_profile: true
   <h2 class="map-gallery-title">💻 Vibe Coding 初中级开发</h2>
   <div class="map-grid">
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/前端1.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/前端1.png" onclick="openModal(this.src)">
       <div class="map-item-title">前端1</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/前端2.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/前端2.png" onclick="openModal(this.src)">
       <div class="map-item-title">前端2</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/前端3.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/前端3.png" onclick="openModal(this.src)">
       <div class="map-item-title">前端3</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/前端4.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/前端4.png" onclick="openModal(this.src)">
       <div class="map-item-title">前端4</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/前端5.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/前端5.png" onclick="openModal(this.src)">
       <div class="map-item-title">前端5</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/后端1.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/后端1.png" onclick="openModal(this.src)">
       <div class="map-item-title">后端1</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/后端2.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/后端2.png" onclick="openModal(this.src)">
       <div class="map-item-title">后端2</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/后端3.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/后端3.png" onclick="openModal(this.src)">
       <div class="map-item-title">后端3</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/后端4.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/后端4.png" onclick="openModal(this.src)">
       <div class="map-item-title">后端4</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/后端5.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/后端5.png" onclick="openModal(this.src)">
       <div class="map-item-title">后端5</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/产品补充.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/产品补充.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品补充</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/产品补充2.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/产品补充2.png" onclick="openModal(this.src)">
       <div class="map-item-title">产品补充2</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/vibe coding/开发APP.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/开发APP.png" onclick="openModal(this.src)">
       <div class="map-item-title">开发APP</div>
     </div>
   </div>
@@ -350,39 +350,39 @@ author_profile: true
   <h2 class="map-gallery-title">🤖 AIGC</h2>
   <div class="map-grid">
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/AI文字生成.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/AI文字生成.png" onclick="openModal(this.src)">
       <div class="map-item-title">AI文字生成</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/MJ基础.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/MJ基础.png" onclick="openModal(this.src)">
       <div class="map-item-title">MJ基础</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/文生图基础.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/文生图基础.png" onclick="openModal(this.src)">
       <div class="map-item-title">文生图基础</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/垫图1.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/垫图1.png" onclick="openModal(this.src)">
       <div class="map-item-title">垫图1</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/垫图2.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/垫图2.png" onclick="openModal(this.src)">
       <div class="map-item-title">垫图2</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/垫图3.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/垫图3.png" onclick="openModal(this.src)">
       <div class="map-item-title">垫图3</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/风格统一.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/风格统一.png" onclick="openModal(this.src)">
       <div class="map-item-title">风格统一</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/主体一致.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/主体一致.png" onclick="openModal(this.src)">
       <div class="map-item-title">主体一致</div>
     </div>
     <div class="map-item">
-      <img src="/assets/images/knowledge/AIGC/图片编辑.png" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/图片编辑.png" onclick="openModal(this.src)">
       <div class="map-item-title">图片编辑</div>
     </div>
   </div>
@@ -393,7 +393,7 @@ author_profile: true
   <h2 class="map-gallery-title">📚 读书笔记</h2>
   <div class="map-grid">
     <div class="map-item">
-      <img src="/assets/images/bio-photo.jpg" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/assets/images/bio-photo.jpg" onclick="openModal(this.src)">
       <div class="map-item-title">待添加</div>
     </div>
   </div>
