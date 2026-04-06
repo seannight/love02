@@ -2,8 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/header-bg.png
-  overlay_filter: 0.2
+  image: /assets/images/header-bg.png
 ---
 
 ## 一、关于我
