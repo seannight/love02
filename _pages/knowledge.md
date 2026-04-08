@@ -120,14 +120,13 @@ author_profile: true
   width: 100%;
   height: 100%;
   background-color: rgba(0,0,0,0.92);
+  justify-content: center;
+  align-items: center;
 }
 
 .modal-content {
-  margin: auto;
-  display: block;
   max-width: 95%;
   max-height: 95%;
-  margin-top: 2%;
   border-radius: 8px;
 }
 
@@ -416,7 +415,7 @@ function showCategory(categoryId) {
 function openModal(imgSrc) {
   var modal = document.getElementById('imageModal');
   var modalImg = document.getElementById('modalImage');
-  modal.style.display = 'block';
+  modal.style.display = 'flex';
   modalImg.src = imgSrc;
 }
 
