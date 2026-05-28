@@ -167,6 +167,12 @@ author_profile: true
     <div class="bookmark-count">点击查看知识导图</div>
   </div>
 
+  <div class="category-bookmark green" onclick="showCategory('harness-engineering')">
+    <div class="bookmark-icon">⚙️</div>
+    <div class="bookmark-title">Harness Engineering</div>
+    <div class="bookmark-count">点击查看知识导图</div>
+  </div>
+
   <div class="category-bookmark pink" onclick="showCategory('reading-notes')">
     <div class="bookmark-icon">📚</div>
     <div class="bookmark-title">读书笔记</div>
@@ -282,6 +288,10 @@ author_profile: true
       <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/进阶.png" onclick="openModal(this.src)">
       <div class="map-item-title">进阶</div>
     </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/腾讯产品/用户分析和竞品分析.png" onclick="openModal(this.src)">
+      <div class="map-item-title">用户分析和竞品分析</div>
+    </div>
   </div>
 </div>
 
@@ -341,6 +351,42 @@ author_profile: true
       <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/开发APP.png" onclick="openModal(this.src)">
       <div class="map-item-title">开发APP</div>
     </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/AI爱马仕课程.png" onclick="openModal(this.src)">
+      <div class="map-item-title">AI爱马仕课程</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级001claude code 快速上手.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级001 Claude Code 快速上手</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级002cc之MCP.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级002 CC之MCP</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级003cc之skill.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级003 CC之Skill</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级004CC之如何让cc长时间工作.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级004 CC之如何让CC长时间工作</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级005CC之agent teams.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级005 CC之Agent Teams</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级006CC之superpower.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级006 CC之Superpower</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级007CC之如何工作流最佳实践.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级007 CC之工作流最佳实践</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/高级008CC之从vibe coding到 spe.png" onclick="openModal(this.src)">
+      <div class="map-item-title">高级008 从Vibe Coding到SPE</div>
+    </div>
   </div>
 </div>
 
@@ -383,6 +429,29 @@ author_profile: true
     <div class="map-item">
       <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/图片编辑.png" onclick="openModal(this.src)">
       <div class="map-item-title">图片编辑</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/AIGC/与光漫剧生图从0到1（在与光AI网站制作）.png" onclick="openModal(this.src)">
+      <div class="map-item-title">与光漫剧生图从0到1</div>
+    </div>
+  </div>
+</div>
+
+<!-- Harness Engineering -->
+<div id="harness-engineering" class="map-gallery">
+  <h2 class="map-gallery-title">⚙️ Harness Engineering</h2>
+  <div class="map-grid">
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/harness engineering/Harness Engineering01概述.png" onclick="openModal(this.src)">
+      <div class="map-item-title">Harness Engineering 01 概述</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/harness engineering/002tool use（bash,read edi.png" onclick="openModal(this.src)">
+      <div class="map-item-title">002 Tool Use</div>
+    </div>
+    <div class="map-item">
+      <img src="{{ site.baseurl }}/assets/images/knowledge/harness engineering/agent_loop001.png" onclick="openModal(this.src)">
+      <div class="map-item-title">Agent Loop 001</div>
     </div>
   </div>
 </div>
