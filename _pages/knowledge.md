@@ -157,7 +157,7 @@ author_profile: true
 
   <div class="category-bookmark green" onclick="showCategory('vibe-coding')">
     <div class="bookmark-icon">💻</div>
-    <div class="bookmark-title">Vibe Coding 初中级开发</div>
+    <div class="bookmark-title">Vibe /Spec Coding 初级到高级开发</div>
     <div class="bookmark-count">点击查看知识导图</div>
   </div>
 
@@ -297,7 +297,7 @@ author_profile: true
 
 <!-- Vibe Coding -->
 <div id="vibe-coding" class="map-gallery">
-  <h2 class="map-gallery-title">💻 Vibe Coding 初中级开发</h2>
+  <h2 class="map-gallery-title">💻 Vibe /Spec Coding 初级到高级开发</h2>
   <div class="map-grid">
     <div class="map-item">
       <img src="{{ site.baseurl }}/assets/images/knowledge/vibe coding/前端1.png" onclick="openModal(this.src)">
