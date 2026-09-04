@@ -75,5 +75,6 @@ toc_sticky: true
 
 ## 视频作品
 
+- [EgoSync--原创AI宠物养成陪伴游戏](https://www.bilibili.com/video/BV1d3tv6fEFw/) - B站
 - [明日香的救赎--献给所有的新世纪福音战士！](https://www.bilibili.com/video/pJF6viN) - B站
 - [你的努力正在贬值！\| AI时代生存法则](https://www.bilibili.com/video/i1yk9DR) - B站
